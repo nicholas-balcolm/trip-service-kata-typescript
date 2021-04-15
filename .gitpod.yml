@@ -4,3 +4,4 @@ vscode:
   extensions:
     - dbaeumer.vscode-eslint
     - eamodio.gitlens
+    - vscode-icons-team.vscode-icons

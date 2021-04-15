@@ -1,5 +1,5 @@
 tasks:
-  - command: "npm install && npm test"
+  - prebuild: "npm install && npm test"
 vscode:
   extensions:
     - dbaeumer.vscode-eslint
